@@ -2,6 +2,6 @@
 
 ### R Programlama dili geliştirilen WEB tabanlı CBS uygulaması.
 
-# Uygulamaya erişmek için https://efdalkaya.shinyapps.io/WEB-GIS/ 
+### Uygulamaya erişmek için https://efdalkaya.shinyapps.io/WEB-GIS/ 
 
-[Proje](1.png)
+<img src="1.png">
