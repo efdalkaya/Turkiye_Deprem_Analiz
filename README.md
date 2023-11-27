@@ -1,0 +1,1 @@
+# Turkiye_Deprem_Analiz
